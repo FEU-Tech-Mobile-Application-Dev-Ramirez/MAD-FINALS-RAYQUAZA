@@ -30,9 +30,9 @@
  <hr>
  
  ## 💻 **Technologies Used**
- - **Kotlin** 
- - **Android Studio** 
- - **Sqlite** 
+ - **Kotlin** (https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+ - **Android Studio** (https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+ - **SQLite** (https://www.fullstackpython.com/img/logos/sqlite.jpg)
  <hr>
 
  ## 📜 **Rules, Practices, and Principles**
@@ -46,4 +46,55 @@
  5. Use only External CSS.
  6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding. 
  File Structure to follow below.
- 
+
+ ### File Structure
+ ```
+ ChronicCare
+ └─ .gradle
+    └─8.9
+    └─buildOutputCleanup
+    └─vcs-1
+    └─config
+    └─config.properties
+    └─file-system.probe
+ └─ Designs
+   └─Adding Reminder.png
+   └─Facilities Page.png
+   └─List of Reminders.png
+   └─Login Page.png
+   └─Register page.png
+   └─Welcome Page.png
+ └─ Documentation
+   └─health.jpg
+ └─ app
+       └─ .gitignore
+       └─ build.gradle.kts
+       └─ proguard-rules.pro
+       └─ src
+          └─ main
+           └─ java/com/example/chronichealthtracker
+           └─ res
+             └─ drawable
+             └─ layout
+             └─ mipmap-anydpi-v26
+             └─ mipmap-hdpi
+             └─ mipmap-mdpi
+             └─ mipmap-xhdpi
+             └─ mipmap-xxhdpi
+             └─ mipmap-xxxhdpi
+             └─ values
+             └─ xml
+           └─ AndroidManifest.xml
+           └─ healthlogo-playstore.png
+           └─ ic_launcher-playstore.png
+           └─ icon-playstore.png
+ └─ gradle
+    └─ wrapper
+    └─ libs.versions.toml
+ └─ README.md
+ └─ build.gradle.kts
+ └─ gradle.properties
+ └─ gradlew
+ └─ gradlew.bat
+ └─ local.properties
+ └─ settings.gradle.kts
