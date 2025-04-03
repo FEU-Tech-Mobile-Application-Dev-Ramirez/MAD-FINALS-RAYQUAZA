@@ -32,6 +32,6 @@
  ## 💻 **Technologies Used**
  - **Kotlin** 
  - **Android Studio** 
- - **Firebase** 
+ - **Sqlite** 
  <hr>
  
