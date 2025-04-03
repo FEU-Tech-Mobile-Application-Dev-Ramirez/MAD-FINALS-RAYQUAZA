@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <!-- LinearLayout wrapped inside ScrollView for scrolling -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:elevation="2dp"
+        android:layout_marginBottom="8dp">
+
+        <!-- Title for the Appointment -->
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="APPOINTMENT"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/primaryBlue"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Health Facility Name -->
+        <TextView
+            android:id="@+id/tvDoctor"
+            android:layout_width="207dp"
+            android:layout_height="36dp"
+            android:text="Health Facility Name"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!-- Facility Schedule -->
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/secondaryTextColor"
+            android:text="Operating hours"/>
+
+        <!-- Facility Location -->
+        <TextView
+            android:id="@+id/tv_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/secondaryTextColor"
+            android:text="Location"/>
+    </LinearLayout>
+
+</android.widget.ScrollView>
