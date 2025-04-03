@@ -1,6 +1,6 @@
 
  <p style="text-align: center;">
-   <img src="Documentation/smartfit_logo_white.png" alt="SMARTFit Logo" width="250">
+   <img src="Documentation/.png" alt="Logo" width="250">
  </p>
  
  ChronicCare : Health Tracker App
