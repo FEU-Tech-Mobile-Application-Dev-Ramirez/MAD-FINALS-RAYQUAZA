@@ -6,7 +6,7 @@
  ChronicCare : Health Tracker App
  <h1 style="text-align: center;">ChronicCare </h1>
  
- DESIGNER : King Andre Lara
+ DESIGNER/DEVELOPER : King Andre Lara
  <p style="text-align: center;">
   Use my app wisely
  </p>
@@ -20,7 +20,9 @@
  
  ## **Key Features**
 ✅ Hospital/Clinic Availablity - View and book appointments with available health facilities
+
 ✅ Appointment Scheduling - Schedule doctor visits and receive reminders
+
 ✅ User Authentication - Secure login using SQLite for personal health records
 
 
@@ -31,7 +33,5 @@
  - **Kotlin** 
  - **Android Studio** 
  - **Firebase** 
-
- 
  <hr>
  
