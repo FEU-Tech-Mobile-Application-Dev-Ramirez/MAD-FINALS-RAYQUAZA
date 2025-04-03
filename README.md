@@ -19,7 +19,7 @@
  <hr>
  
  ## **Key Features**
-✅ Hospital/Clinic Availablity - View and book appointments with available health facilities
+✅ Hospital/Clinic Availablity - View availbe health/clinic facilities
 
 ✅ Appointment Scheduling - Schedule doctor visits and receive reminders
 
@@ -30,9 +30,9 @@
  <hr>
  
  ## 💻 **Technologies Used**
- - **Kotlin** (https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
- - **Android Studio** (https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
- - **SQLite** (https://www.fullstackpython.com/img/logos/sqlite.jpg)
+ - **Kotlin** 🟦
+ - **Android Studio** 🟩
+ - **SQLite** 🪶
  <hr>
 
  ## 📜 **Rules, Practices, and Principles**
