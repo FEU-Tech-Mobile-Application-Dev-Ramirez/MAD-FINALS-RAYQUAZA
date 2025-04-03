@@ -14,7 +14,7 @@
  <hr>
  
  ## **Overview**
- **ChronicCare** Tracker is a comprehensive health management application designed to empower users in managing their chronic illnesses. It offers a seamless way to track symptoms, medications, and appointments, while also providing access to available health facilities. With features like Hospital/Clinic Availability, Appointment Scheduling, and secure User Authentication using SQLite, this app ensures that individuals can take control of their health journey in a convenient and reliable manner.
+ **ChronicCare** Tracker is a comprehensive health management application designed to empower users in managing their chronic illnesses. It offers a seamless way to track symptoms, medications, and appointments, while also providing access to available health facilities. With features like Hospital/Clinic Availability, Reminders, and secure User Authentication using SQLite, this app ensures that individuals can take control of their health journey in a convenient and reliable manner.
  
  <hr>
  
